@@ -1,5 +1,3 @@
-package problem_3;
-
 import java.util.Stack;
 
 import utils.data.BTreeNode;
